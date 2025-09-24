@@ -15,16 +15,18 @@ Exploratory Data Analysis<br/>
 ### Dashboard<br/>
 * Overview: listings, accomodations available, average price($), average rating, and total reviews info per borough<br/>
 
-![](screenshots/Screenshot1.png)
+![](![nyc_airbnb](https://github.com/user-attachments/assets/11e8dcc4-b930-456f-b5c1-18132729a6c5))
 * Filtering: Giving the options to find the desired location and attaching the links to the website for more details<br/>
 
-![](screenshots/Screenshot2.png)
+![](<img width="1920" height="1080" alt="Screenshot1" src="https://github.com/user-attachments/assets/3e495359-9fdb-47d3-8f39-06b8f269a1e8" />)
 * Key Insights: Displaying the insights on the boroughs, room types, prices, reviews, and hosts<br/>
 
-![](screenshots/Screenshot3.png)
+![](<img width="1920" height="1080" alt="Screenshot2" src="https://github.com/user-attachments/assets/4261cc16-77b3-40c8-81a9-c96a4d620bc8" />)
 * Superhosts v Non Superhosts: Figuring out the edge of superhosts<br/>
 
-![](screenshots/Screenshot4.png)<br/>
+![](<img width="1920" height="1080" alt="Screenshot3" src="https://github.com/user-attachments/assets/22ef5f3e-3ba1-4caf-a690-61d2c470c579" />)<br/>
+
+![](<img width="1920" height="1080" alt="Screenshot4" src="https://github.com/user-attachments/assets/2fd98db4-8099-485e-9efc-a782f1e8e915" />)<br/>
 
 ### Tech Stack<br/>
 * Excel
@@ -34,7 +36,4 @@ Exploratory Data Analysis<br/>
 * Mapbox
 * Python (pandas, seaborn, matplotlib)
 
-<br/><br/>
 
-*hope you find it helpful, and encourage you to forward any suggestions for improvements* <br/>
-##### [LinkedIn](https://www.linkedin.com/in/sujay-bhaumik-d12/)
